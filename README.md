@@ -1,4 +1,4 @@
-# Vuejs Authentication Starter
+# Vuejs Authentication Starter Kit
 
 Vuejs is the Progressive JavaScript Framework and light weight, simple and easy to use. In this kit you will get simple basic authentication. Yeah, I can not say exactly simple. But lot of things are included such as **[Vuex](https://vuex.vuejs.org/)** (State Management in Vuejs), **[Router Navigation Guards](https://router.vuejs.org/guide/advanced/navigation-guards.html)**,  **Cookies** and API Service to the mock server. We will discuss in step by step process.
 
